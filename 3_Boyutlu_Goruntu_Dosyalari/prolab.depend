@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571962722 source:d:\kodlama\kodlar\codeblocks\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<math.h>
+
